@@ -5,8 +5,6 @@ permalink: /
 author_profile: true
 ---
 
-<p class="intro-lead">Learning transferable visual concepts for unseen compositions.</p>
-
 I am a Ph.D. student in **Software Engineering** at **Guizhou University**, expecting to graduate in **June 2027**. My research lies at the intersection of computer vision and machine learning, with a focus on **compositional zero-shot learning** and **vision–language models**.
 
 I study how models recognize unseen attribute–object combinations by learning transferable primitive representations. My first-author work explores multimodal prompts with primitive enhancement (**MPPE**) and primitive memory networks with qualified prompts (**PMNQP**). My collaborative work also addresses zero-shot domain generalization.
