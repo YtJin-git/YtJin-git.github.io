@@ -1,5 +1,6 @@
 ---
-title: About
+title: 'Yutang Jin（金玉堂）'
+seo_title: 'Yutang Jin（金玉堂）| Guizhou University'
 permalink: /
 author_profile: true
 ---
