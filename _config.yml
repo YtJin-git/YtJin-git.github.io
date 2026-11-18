@@ -6,7 +6,7 @@ name: Yutang Jin
 description: Ph.D. student at Guizhou University. Compositional generalization, vision–language
   learning, and transferable visual representations.
 url: 'https://ytjin-git.github.io'
-baseurl: 'https://ytjin-git.github.io'
+baseurl: ''
 repository: YtJin-git/YtJin-git.github.io
 author:
   avatar: portrait.jpg
